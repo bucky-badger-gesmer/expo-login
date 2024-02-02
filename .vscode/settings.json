@@ -1,0 +1,15 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.linkedEditing": true,
+  "eslint.run": "onSave",
+  "eslint.workingDirectories": [],
+  "editor.formatOnPaste": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
